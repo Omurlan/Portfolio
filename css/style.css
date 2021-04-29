@@ -233,9 +233,9 @@
     .about__content {
         margin-top: 25px !important;
     }
-   .about h2 {
-        font-size: 30px;
+   .about h3 {
        text-align: center;
+       font-size: 30px;
    }
    .about__content p {
        font-size: 15px;
